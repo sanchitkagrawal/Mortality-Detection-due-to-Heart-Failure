@@ -9,7 +9,7 @@ The goal of this project is to use several machine learning methods to perform d
 ## Dataset
 This dataset provides data on 5074 patients who are experiencing heart failure symptoms. The BMC Medical Informatics and Decision link (https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-020-1023-5#Sec2) contains a description of this dataset.
 
-## DataSet details
+### Dataset details
 The dataset contains 12 features: age : the age of the person with heart failure anaemia : Decrease of red blood cells or hemoglobin (boolean) creatinine_phosphokinase : Level of the CPK enzyme in the blood (mcg/L) diabetes : If the patient has diabetes (boolean) ejection_fraction : Percentage of blood leaving the heart at each contraction (percentage) high_blood_pressure : If the patient has hypertension (boolean) platelets : Platelets in the blood (kiloplatelets/mL) serum_creatinine : Level of serum creatinine in the blood (mg/dL) serum_sodium : Level of serum sodium in the blood (mEq/L) sex : Woman or man (binary) smoking : If the patient smokes or not (boolean) time : Follow-up period (days) DEATH_EVENT : If the patient deceased during the follow-up period (boolean)
 
 ## Models Implemented:
