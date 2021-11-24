@@ -6,7 +6,7 @@ Cardiovascular disorders are the leading cause of death worldwide, with heart fa
 ## Purpose
 The goal of this project is to use several machine learning methods to perform data analysis and model training on the 'Heart Failure' dataset and quantify the probability of heart failure. The features were extensively scrutinized, analyzed, and features that have a direct part in heart failure, which will eventually lead to death, as well as features that can aid in survival, were discovered.
 
-## DataSet
+## Dataset
 This dataset provides data on 5074 patients who are experiencing heart failure symptoms. The BMC Medical Informatics and Decision link (https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-020-1023-5#Sec2) contains a description of this dataset.
 
 ## DataSet details
